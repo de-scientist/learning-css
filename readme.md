@@ -82,7 +82,7 @@
 
 
 
-**CSS Text Formatting**
+### **CSS Text Formatting**
 
 * **Color property**
 * **text-align- for horizontal allinment - left, right, center, justified,** 
@@ -92,6 +92,15 @@
 * **text-indent- indnts the first line of a paragraph**
 * **line-height- distance btwn text must be unit less**
 * **word-spacing- space between words**
+
+
+
+### **CSS FONTS**
+
+* **Generic font families- they are fallback mechanism.-serif, sans-serif, monospace, cursive, fantasy** 
+* **font-style- normal, italics, oblique,** 
+* **font-weight- normal, bold, bolder, lighter and 100-900**
+* 
 
 
 
