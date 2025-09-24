@@ -88,6 +88,10 @@
 * **text-align- for horizontal allinment - left, right, center, justified,** 
 * **text-align-last**
 * **text-transform - none, capitalize, uppercase, lowercase**
+* **text-decoration- line, color, style, thickness**
+* **text-indent- indnts the first line of a paragraph**
+* **line-height- distance btwn text must be unit less**
+* **word-spacing- space between words**
 
 
 
