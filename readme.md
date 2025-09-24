@@ -21,3 +21,11 @@
 
 * **A css rule consists of a selector***(points to the HTML element)* <b>and a declaration block</b>*(separated by semicolons)*
 * Declaration blocks are surrounded by curly braces **{}**
+
+
+
+### **Ways of Styling**
+
+* **Inline css**
+* **Internal CSS**
+* **External CSS**
