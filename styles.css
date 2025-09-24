@@ -17,5 +17,14 @@ div {
 }
 
 body {
-    background: linear-gradient(to right, #ffcc23, #ff99ec, #fff);
+    height: 100vh;
+    background: repeating-radial-gradient(circle, orange, red, green);
+}
+
+p {
+    text-align: justify;
+}
+
+h3 {
+    text-decoration: underline;
 }

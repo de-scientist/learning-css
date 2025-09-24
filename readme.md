@@ -74,9 +74,20 @@
 
 ### **CSS Gradients**
 
-**Applied using the backround or background-image**
+* **Applied using the backround or background-image**
+* **Linear gradient**
+* **repeating-linear-gradient**
+* **radial-gradient**
+* **Conic-gradient**
 
-**Linear gradient**
+
+
+**CSS Text Formatting**
+
+* **Color property**
+* **text-align- for horizontal allinment - left, right, center, justified,** 
+* **text-align-last**
+* **text-transform - none, capitalize, uppercase, lowercase**
 
 
 
