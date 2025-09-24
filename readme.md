@@ -26,6 +26,24 @@
 
 ### **Ways of Styling**
 
-* **Inline css**
-* **Internal CSS**
-* **External CSS**
+* **Inline css uses style="" inside HTML elements**
+* **Internal CSS- uses <style> tag on the head tag**
+* **External CSS- use the <link> tag**
+
+
+
+### **Best Practices**
+
+* **Use external css for most projects**
+* **Avoid using inline CSS**
+* **You can use internal css for one page projects**
+
+
+
+### **CSS Selectors**
+
+* **Are patterns used to identify the HTML elements**
+* **class selectors- Can be shared by multiple elements**
+* **ID selector - Belongs to only one element**
+* **Type/Element selector**
+* **Universal Selector**

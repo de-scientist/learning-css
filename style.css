@@ -2,3 +2,24 @@ h3 {
     font-size: 20px;
     color: blue;
 }
+
+.question {
+    font-size: 15px;
+    color: orangered;
+}
+
+.answer {
+    font-size: 14px;
+}
+
+#title {
+    text-align: center;
+    background-color: black;
+    color: beige;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    color: purple;
+}
