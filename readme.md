@@ -89,8 +89,8 @@
 * **text-align-last**
 * **text-transform - none, capitalize, uppercase, lowercase**
 * **text-decoration- line, color, style, thickness**
-* **text-indent- indnts the first line of a paragraph**
-* **line-height- distance btwn text must be unit less**
+* **text-indent- indents the first line of a paragraph**
+* **line-height- distance between text must be unit less**
 * **word-spacing- space between words**
 
 
@@ -100,7 +100,63 @@
 * **Generic font families- they are fallback mechanism.-serif, sans-serif, monospace, cursive, fantasy** 
 * **font-style- normal, italics, oblique,** 
 * **font-weight- normal, bold, bolder, lighter and 100-900**
+* **font-size**
+
+
+
+### **CSS Borders**
+
+* **border-style > none, solid, dotted, dashed,groove**
+* **border-width > use pixels and can be used for - top, right etc**
+* **border-color >**
+* **border-width > has shorthands > 1 value for all, 2 for top-bottom and left-right, 4 values each side in clock direction**
+* **border > shorthand > Nest all the above**
+
+
+
+### **CSS Margins**
+
+* **Space outside an element border**
+* **margin-top > margin-bottom > margin-left > margin-right**
+* **margin > shorthand**
+* **margin-block > top and bottom margins** 
+* **margin-inline > left and right margins** 
+* **margin-block-start >top margin**
+* **margin-block-end > bottom margin**
+* **margin-inline-start >right margin**
+* **margin-inline-end > left margin**
+
+
+
+### **CSS Padding**
+
+* **Is the space btwn content of an element and its border**
+* **padding-inline**
+* **padding-block**
+* **padding >shorthand**
+
+
+
+### **Height and Width Properties**
+
+* **height- sets height of an element to a specific value > should be avoided**
+* **max-height > specifies max height the element can grow to**
+* **min-height > specifies min height an element can shrink to**
+* **width > sets width of an element**
+* **min-width > specifies min height an element can shrink to**
+* **max-width > specifies max height the element can grow to**
+
+
+
+### **CSS Units**
+
+**\*Default size of the root\[<html> tag] font size is 16px**
+
+* **absolute length > rep. fixed units and are not responsive > not recommended**
+* **px \[1/96 of an inch], cm, mm, in, pt, pc**
+* **relative length > depend on the size of other elements > very responsive**
+* **They include > %, em -relative to the current font size, rem -relative to the font-size of the root element, vw \[viewport width], vh \[viewport height]**
 * 
 
-
+&nbsp;
 
