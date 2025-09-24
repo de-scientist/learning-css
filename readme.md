@@ -47,3 +47,12 @@
 * **ID selector - Belongs to only one element**
 * **Type/Element selector**
 * **Universal Selector**
+
+
+
+### **Color**
+
+* **Adds color to text**
+* **Opacity**
+* **rgb- red, green, and blue**
+* **Hex- use 0-9 and A-F> Start with #**
