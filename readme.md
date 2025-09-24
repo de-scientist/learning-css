@@ -66,9 +66,17 @@
 
 * **background-color - adds a solid color**
 * **background-image - adds an image as the page background**
-* **background-position Positions the image - top/bottom**
+* **background-position - Positions the image - top/bottom**
 * **background-size - auto, cover, contain**
-* 
+* background-shorthand
+
+
+
+### **CSS Gradients**
+
+**Applied using the backround or background-image**
+
+**Linear gradient**
 
 
 
