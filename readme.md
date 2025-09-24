@@ -56,3 +56,9 @@
 * **Opacity**
 * **rgb- red, green, and blue**
 * **Hex- use 0-9 and A-F> Start with #**
+* **HSL-  Hue, saturation and light**
+* **rgba- red, green, blue, and alpha parameter for opacity**
+* **Transparent value**
+
+
+
