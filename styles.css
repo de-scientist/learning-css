@@ -19,5 +19,5 @@ div {
 body {
     background-color: rgba(20, 35, 15, 0.4);
     background-image: url(./images/back.jpg);
-    
+    background-repeat: repeat-x;
 }
