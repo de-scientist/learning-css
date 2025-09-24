@@ -24,11 +24,12 @@ body {
 
 p {
     /*font-size: 16px;*/
-    font-family: 'Poppins' sans-serif;
+    font-family: "Bitcount Single", system-ui;
     text-align: justify;
     text-indent: 20px;
     line-height: 1.5;
-
+    font-style: italic;
+    
 }
 
 h3 {
@@ -40,4 +41,5 @@ h3 {
 h4 {
     font-size: 32px;
     font-family: cursive;
+    font-weight: bolder;
 }
